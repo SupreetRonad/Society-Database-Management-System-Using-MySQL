@@ -1,2 +1,5 @@
 # Society-Database-Management-System
-Society Database Management System
+   The Society Database Management System is a Database System where all the required data related to the Societies, Houses, Residents, Visitors and Complaints are stored in a systematic way so that the reading or retrieval of any data becomes easier and efficient. All the assumptions made with regards to the Database are kept in mind and proceeded with the DATABASE design. The ER diagram contains the information about the Entity Types, Relationships and their Structural Constraints. The Logical Design where the Relational Schema is built along with the appropriate choice of Primary Keys and Foreign Keys for each Relation. The Physical Design which contains the DDL statements to create the database and its tables applying all the required constraints.
+   
+   In the Database there are a total of 6 tables including an extra table which keeps record of all the old info which was updated from Users table. Here each user is given an user-id, each house a house-id, each society a society-id and complaints and visiting also the same, which helps easy identification of any particular user house or anything related to a society. Refer to "Final_Report.pdf" for further information.
+
